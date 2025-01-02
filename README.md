@@ -19,3 +19,4 @@ Mentor : NEELA SANTHOSH
 # Output of the task
 
 ![task1 output](https://github.com/user-attachments/assets/169716db-7b7b-4835-981c-8917b2f67da8)
+![task1_output](https://github.com/user-attachments/assets/4af9c184-9c2b-43c9-ac91-9d623903c5cd)
